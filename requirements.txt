@@ -1,0 +1,8 @@
+streamlit>=1.13
+pydeck>=0.8.0
+folium>=1.0.0
+streamlit-folium>=0.28.0
+joblib>=1.0
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.3
